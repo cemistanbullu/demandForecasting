@@ -10,3 +10,5 @@
 - Unlike time series algorithms with a practical feature engineering method, I developed artificial intelligence with light gbm.
 
 ###### This problem is based on a kaggle competition: https://www.kaggle.com/c/demand-forecasting-kernels-only you can find the datasets right there.
+
+###### Model predicts the score with %86 accuracy
